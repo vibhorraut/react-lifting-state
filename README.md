@@ -1,3 +1,21 @@
+# Final output
+![react-state-lifting](https://github.com/user-attachments/assets/37c086cd-d69c-4c64-a720-b47616a05c35)
+
+ParentComponent main state ko manage karta hai.
+ChildComponent1 state ko update kar sakta hai.
+ChildComponent2 state ko display karta hai.
+State lifting ke through, state ko parent mein manage karte hain aur usko child components mein share karte hain.
+
+# Necessary Commands
+# React app create karne ke liye
+npx create-react-app react-lifting-state
+
+# Project directory mein jaane ke liye
+cd react-lifting-state
+
+# Bootstrap install karne ke liye
+npm install bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
